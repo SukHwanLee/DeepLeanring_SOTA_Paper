@@ -9,6 +9,7 @@ Basic Tasks
 - Deepfake Detection
 
 Recent Tasks
-- Large Model : LLM, LCM, LWM, LAM etc (In progress)
+- Alternative Transformer : Mamba, Samba etc (In Progress)
+- Large Model : LLM, LCM, LWM, LAM etc (In Progress)
 - Generative Model : Diffusion Family
   
