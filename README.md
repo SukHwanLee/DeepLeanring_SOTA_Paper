@@ -1,4 +1,4 @@
-# DeepLeanring_SOTA_Paper
+# Review of DeepLeanring_SOTA_Paper
 
 SOTA Paper Read for Main Tasks 
 
